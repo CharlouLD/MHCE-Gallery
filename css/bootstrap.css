@@ -1,10 +1,4 @@
-/*!
- * Bootstrap v3.1.1 (http://getbootstrap.com)
- * Copyright 2011-2014 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 
-/*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -235,6 +229,7 @@ th {
     background: #fff !important;
   }
   .navbar {
+    background-color: #A7002E;
     display: none;
   }
   .table td,
@@ -288,12 +283,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  
+
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  
+
   text-decoration: none;
 }
 a:focus {
@@ -3950,14 +3945,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: #777;
+  color: #fff;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777;
+  color: #fff;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333;
+  color: #e5e5e5;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
